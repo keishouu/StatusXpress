@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+body {
+    font-size: 2em;
+    background-color: #EEE4B1;
+}
+input {
+    height: 5vh;
+    width: 15vw;
+    font-size: 1.2em;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.titlecontainer {
+    background-color: #8C6A5D;
+    color: #EEE4B1;
+    margin: 0;
+    justify-content: center;
+    text-align: right;
+    padding: 10px;
+    font-family: "Madimi One", sans-serif;
+}
+
+.titlecontainer h1{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.logincontainer{
+    background-color: #8C6A5D;
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.logincontainer h2 {
+    color: #EEE4B1;
+    font-family: "Madimi One", sans-serif;
+    padding-top: 20px;
+}
+
+.regForm, .logForm {
+    text-align: center;
+}
+
+
+.btn {
+    margin-bottom: 10px;
+    background-color: #413030;
+    color: #EEE4B1;
+    font-family: "Madimi One", sans-serif;
+    border: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+body {
+    font-size: 2em;
+    background-color: #EEE4B1;
+}
+input {
+    height: 5vh;
+    width: 15vw;
+    font-size: 1.2em;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.logincontainer{
+    background-color: #8C6A5D;
+    width: 30vw;
+    height: 40vh;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.logincontainer h2 {
+    color: #EEE4B1;
+    font-family: "Madimi One", sans-serif;
+    padding-top: 20px;
+}
+
+.regForm, .logForm {
+    text-align: center;
+}
+
+
+.btn {
+    margin-bottom: 10px;
+    background-color: #413030;
+    color: #EEE4B1;
+    font-family: "Madimi One", sans-serif;
+    border: none;
+}
+
+.titlecontainer {
+    background-color: #8C6A5D;
+    color: #EEE4B1;
+    margin: 0;
+    justify-content: center;
+    text-align: right;
+    padding: 10px;
+    font-family: "Madimi One", sans-serif;
+}
+
+.titlecontainer h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.welcomePanel {
+    background-color: #EEE4B1;
+    width: 100vw; /* Set width to occupy the entire width of the viewport */
+    height: 100vh; /* Set height to occupy the entire height of the viewport */
+    position: fixed; /* Position the welcome panel fixed to the viewport */
+    top: 0; /* Align to the top of the viewport */
+    left: 0; /* Align to the left of the viewport */
+    display: flex; /* Use flexbox to center content vertically and horizontally */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    text-align: center; /* Align text in the center */
+
+}
+.welcomePanel h1 {
+    font-family: "Madimi One", sans-serif;
+}
+.welcomePanel h2 {
+    color: #8C6A5D;
+    font-size: 1.5em; /* Adjust font size as needed */
+    padding: 20px; /* Add padding for better spacing */
+    border-radius: 10px; /* Add border radius for styling */
+}
